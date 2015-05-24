@@ -1,0 +1,13 @@
+Variables
+Subject
+Number: 1:30 Indicates the unique identifier of the person who performed the tes
+Activity
+Descriptive (Factors) 
+1 WALKING
+2 WALKING_UPSTAIRS
+3 WALKING_DOWNSTAIRS
+4 SITTING
+5 STANDING
+6 LAYING
+Summary Variables
+There are 79 variables that stores the Mean and Standard deviations of 482 Variables
